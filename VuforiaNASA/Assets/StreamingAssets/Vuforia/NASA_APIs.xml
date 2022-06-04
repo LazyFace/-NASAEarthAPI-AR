@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cartagena" size="1.000000 0.500000" />
+    <ImageTarget name="Cali" size="1.000000 0.630719" />
+    <ImageTarget name="Bogota" size="1.000000 0.910131" />
+    <ImageTarget name="Medellin" size="1.000000 1.428750" />
+  </Tracking>
+</QCARConfig>
